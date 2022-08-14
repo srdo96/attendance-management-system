@@ -1,6 +1,9 @@
 input {
+  text-align: left;
+  font-size: 15px;
   padding: 10px 1px;
   border: 0;
   border-bottom: 1px solid #747474;
   outline: none;
+  width: 30vh;
 }
